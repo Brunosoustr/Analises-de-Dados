@@ -1,4 +1,4 @@
-# O desperdício de alimentos e seus impactos econômicos e ambientais 📊🌍
+# O desperdício de alimentos e seus impactos econômicos e ambientais 💲🌍
 
 ### 🎯 Objetivo 
 Essa análise pretende identificar padrões de desperdício em diferentes países e categorias alimentares, além de compreender os fatores socioeconômicos envolvidos e propor estratégias eficazes para mitigação.
