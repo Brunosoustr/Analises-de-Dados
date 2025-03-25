@@ -18,12 +18,12 @@ This dataset contains  **5,000 records**  covering food wastage across  **20 cou
  - **Household Waste (%)**: Percentage of food waste from households
 
 
-🎲 A base de dados utilizada para essa análise está disponível em [🌍 Global Food Wastage Dataset (2018-2024) 🍽️](https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024)
+### 🎲 A base de dados utilizada para essa análise está disponível em [🌍 Global Food Wastage Dataset (2018-2024) 🍽️](https://www.kaggle.com/datasets/atharvasoundankar/global-food-wastage-dataset-2018-2024)
 
 This dataset provides insights into food waste trends across different countries from 2018 to 2024, categorized by food type, economic loss, and per capita waste.
 
 
-🛠️ Utilizei o *Excel* (para tratamento primário da base de dados) e o *Tableau Public* para criação do Painel de Análise (Dashboard)
+### 🛠️ Utilizei o *Excel* (para tratamento primário da base de dados) e o *Tableau Public* para criação do Painel de Análise (Dashboard)
 
 
 
